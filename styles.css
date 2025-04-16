@@ -1,0 +1,265 @@
+.navbar-brand {
+font-weight: 700;
+font-size: medium;
+
+}
+
+.img {
+    margin-right: 10px;
+    padding-left: 30px;
+}
+
+.login {
+    margin-right: 30px;
+    border: none;
+    padding: 3px 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.nav-item {
+    padding-left: 30px;
+    
+
+}
+
+.btn1 {
+    margin-left: 100px;
+    padding: 10px 60px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+
+/* Colored dots for technology */
+.dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Custom colors for dots */
+.bg-pink {
+    background-color: #ff69b4; /* Pink color */
+}
+
+.bg-brown {
+    background-color: #8b4513; /* Brown color */
+}
+
+.library {
+    background-color: rgb(240, 226, 213);
+    width: 45%;
+    align-content: center;
+    justify-self: center;
+    border-radius: 10px;
+    padding-bottom: 5px;
+    padding-right: 5%;
+    
+    
+}
+
+.btn3 button {
+    background:  black;
+    color: white;
+    border-radius: 5px;
+    margin-left: 80%;
+    padding: 5px 20px;
+    text-align: center;
+    text-align: justify;
+    
+}
+
+h6 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 700;
+    
+}
+
+p {
+    font-size: 15px;
+    margin-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
+
+
+
+
+.box-page {
+ border: 8px solid rgb(193, 193, 247);
+ width: 45%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ background-color: rgb(19, 19, 54);
+ border-radius: 7px;
+ margin-top: 25px;
+}
+
+
+
+
+
+
+.navbar-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: rgb(1, 1, 17);
+    color: aliceblue;
+    border-radius: 7px;
+}
+
+
+.nav-menu2 {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 14rem;
+}
+
+.nav-menu2 li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.nav-menu2 li a:hover {
+    color: rgb(66, 112, 7);
+
+}
+
+.nav-btn {
+    
+    padding: 0.3rem 1.2rem;
+    border: none;
+    border-radius: 3px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size: small;
+    background: rgb(117, 68, 253);
+    color: white;
+ 
+}
+
+.nav-btn:hover {
+    background-color: #ff69b4;
+}
+
+span {
+    color: rgb(47, 78, 255);
+}
+
+.logo {
+    font-size: 20px;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.sub {
+    color: rgb(180, 165, 165);
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.key {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 3px 8px;
+    font-size: small;
+    background: #df589b;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.sign {
+    text-align: center;
+    color: rgb(153, 148, 148);
+    font-size: 10px;
+}
+
+.how {
+    color: aliceblue;
+    font-family: serif;
+    text-decoration: line-through;
+    margin-left: 10%;
+    margin-bottom: 5px;
+}
+
+.arrow {
+    display: block;
+    margin-left: 15%;
+    
+    
+}
+
+.box-1 {
+    border: none;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(14, 26, 26);
+    border-radius: 5px;
+    
+}
+
+.code {
+    color: white;
+    padding-top: 20px;
+    font-size: 10px;
+    margin: 10px;
+
+}
+
+.host {
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.logo-items {
+    display: flex;
+    align-self: center;
+    gap: 10px;
+}
+
+.logo-item img {
+    width: 10px;
+    height: 10px;
+    object-fit: contain;
+    color: white;
+    
+}
+
+
+ .container1 {
+    color: white;
+
+}
+
